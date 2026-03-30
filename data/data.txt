@@ -1,0 +1,4 @@
+The data consist of two main data files:
+
+1) domain adaptation
+2) domain application
